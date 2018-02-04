@@ -1,0 +1,8 @@
+Container dimensions are:
+
+1260px x 96px
+
+bottom gradient: #5c812e
+top gradient: #8bad3a
+
+background: linear-gradient(#5c812e, #8bad3a);
